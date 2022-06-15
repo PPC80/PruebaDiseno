@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+} 
+
+.weapper{
+    max-height: 120px;
+    border: 1px solid #ddd;
+    display: flex;
+}
+
+.weapper .item{
+    min-height: 110px;
+    height: 110px;
+    line-height: 110px;
+    text-align: center;
+    background-color: #ddd;
+}
+div .encabezado{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    background-color:#E6E6E6
+}
